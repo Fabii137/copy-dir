@@ -4,8 +4,8 @@
     {
         Console.ForegroundColor = ConsoleColor.Green;
 
-        string path = @"C:\Users\Anwender\source\repos\CodingCampus_2023.09.VZ.Dornbirn\Fabian";
-        string newPath = @"C:\Users\Anwender\Documents\test";
+        string path = @"C:\Users\fakr\source\repos\CodingCampus_2023.09.VZ.Dornbirn\Fabian";
+        string newPath = @"C:\Users\fakr\Documents\test";
 
         CopyProject(path, newPath);
 
