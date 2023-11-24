@@ -1,0 +1,14 @@
+C:\Users\Anwender\Documents\visual studio projekte\copy-dir\copy-dir\bin\Debug\net6.0\copy-dir.exe
+C:\Users\Anwender\Documents\visual studio projekte\copy-dir\copy-dir\bin\Debug\net6.0\copy-dir.deps.json
+C:\Users\Anwender\Documents\visual studio projekte\copy-dir\copy-dir\bin\Debug\net6.0\copy-dir.runtimeconfig.json
+C:\Users\Anwender\Documents\visual studio projekte\copy-dir\copy-dir\bin\Debug\net6.0\copy-dir.dll
+C:\Users\Anwender\Documents\visual studio projekte\copy-dir\copy-dir\bin\Debug\net6.0\copy-dir.pdb
+C:\Users\Anwender\Documents\visual studio projekte\copy-dir\copy-dir\obj\Debug\net6.0\copy-dir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anwender\Documents\visual studio projekte\copy-dir\copy-dir\obj\Debug\net6.0\copy-dir.AssemblyInfoInputs.cache
+C:\Users\Anwender\Documents\visual studio projekte\copy-dir\copy-dir\obj\Debug\net6.0\copy-dir.AssemblyInfo.cs
+C:\Users\Anwender\Documents\visual studio projekte\copy-dir\copy-dir\obj\Debug\net6.0\copy-dir.csproj.CoreCompileInputs.cache
+C:\Users\Anwender\Documents\visual studio projekte\copy-dir\copy-dir\obj\Debug\net6.0\copy-dir.dll
+C:\Users\Anwender\Documents\visual studio projekte\copy-dir\copy-dir\obj\Debug\net6.0\refint\copy-dir.dll
+C:\Users\Anwender\Documents\visual studio projekte\copy-dir\copy-dir\obj\Debug\net6.0\copy-dir.pdb
+C:\Users\Anwender\Documents\visual studio projekte\copy-dir\copy-dir\obj\Debug\net6.0\copy-dir.genruntimeconfig.cache
+C:\Users\Anwender\Documents\visual studio projekte\copy-dir\copy-dir\obj\Debug\net6.0\ref\copy-dir.dll
