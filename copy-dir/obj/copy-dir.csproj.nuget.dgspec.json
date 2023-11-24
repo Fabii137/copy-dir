@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Anwender\\Documents\\visual studio projekte\\copy-dir\\copy-dir\\copy-dir.csproj": {}
+    "C:\\Users\\Anwender\\Source\\Repos\\copy-dir\\copy-dir\\copy-dir.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Anwender\\Documents\\visual studio projekte\\copy-dir\\copy-dir\\copy-dir.csproj": {
+    "C:\\Users\\Anwender\\Source\\Repos\\copy-dir\\copy-dir\\copy-dir.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Anwender\\Documents\\visual studio projekte\\copy-dir\\copy-dir\\copy-dir.csproj",
+        "projectUniqueName": "C:\\Users\\Anwender\\Source\\Repos\\copy-dir\\copy-dir\\copy-dir.csproj",
         "projectName": "copy-dir",
-        "projectPath": "C:\\Users\\Anwender\\Documents\\visual studio projekte\\copy-dir\\copy-dir\\copy-dir.csproj",
+        "projectPath": "C:\\Users\\Anwender\\Source\\Repos\\copy-dir\\copy-dir\\copy-dir.csproj",
         "packagesPath": "C:\\Users\\Anwender\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Anwender\\Documents\\visual studio projekte\\copy-dir\\copy-dir\\obj\\",
+        "outputPath": "C:\\Users\\Anwender\\Source\\Repos\\copy-dir\\copy-dir\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
