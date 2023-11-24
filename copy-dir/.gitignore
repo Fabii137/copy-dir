@@ -156,6 +156,8 @@ _NCrunch_*
 .*crunch*.local.xml
 nCrunchTemp_*
 
+7Debug/
+
 # MightyMoose
 *.mm.*
 AutoTest.Net/
